@@ -31,7 +31,6 @@ stats.json
 public/build-meta.json
 .vscode
 
-
 # Reason React
 /lib/bs/**
 .merlin
@@ -48,7 +47,6 @@ public/build-meta.json
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
-
 
 # Using NPM
 yarn.lock
